@@ -1,0 +1,4 @@
+quality tier;movie count;average imdb score;average investment (millions);average net profit (millions);average roi %
+high quality (7.3+);7;7.4;82.68;139.75;283.55
+average (6.2 - 7.2);7;6.4;71.59;16.90;60.56
+low rated (< 6.2);9;5.6;55.92;26.9;52.81
